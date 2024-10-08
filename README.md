@@ -29,34 +29,29 @@ Installation
 1.Clone the repository
 
 2.Backend Setup:
-
 Navigate to the backend directory:
-cd backend
-npm install
 
-
-
-cd backend
-npm install
+     cd backend
+     npm install
 Set up your environment variables (e.g., MongoDB URI, JWT secret).
 
 3.Frontend Setup:
-
 Navigate to the frontend directory:
 
-cd frontend
-npm install
-Run the Application:
+     cd frontend
+     npm install
 
-4.Start the backend server:
+4.Run the Application:
 
-cd backend
-npm start
+Start the backend server:
+      
+      cd backend
+      npm start
 
-5.Start the frontend server:
+Start the frontend server:
 
-cd frontend
-npm start
+      cd frontend
+      npm start
 
 6.Open http://localhost:3000 to use the application.
 
