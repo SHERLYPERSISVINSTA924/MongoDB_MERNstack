@@ -3,6 +3,9 @@
 BOOK A DOCTOR USING MERN
 
 Overview
+This project is a Doctor Appointment System built with React, Express.js, and MongoDB. It includes features for managing doctors, appointments, calendars, and user authentication.
+
+Overview
 
 The Doctor Appointment System is a web application that allows patients to search for doctors, view their availability, and book appointments online. Built using the MERN Stack (MongoDB, Express.js, React, Node.js), the system provides a user-friendly interface and efficient backend to manage appointments in real-time.
 
