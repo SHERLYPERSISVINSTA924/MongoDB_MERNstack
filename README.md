@@ -7,13 +7,19 @@ OVERVIEW
 
 The Doctor Appointment System is a web application that allows patients to search for doctors, view their availability, and book appointments online. Built using the MERN Stack (MongoDB, Express.js, React, Node.js), the system provides a user-friendly interface and efficient backend to manage appointments in real-time.
 
+
 TABLE OF CONTENTS
 
 Overview
+
 Features
+
 Technologies Used
+
 Installation
+
 Usage
+
 
 
 FEATURES
@@ -26,6 +32,8 @@ Secure Authentication: JWT-based login for both patients and doctors.
 
 Appointment Booking: Real-time appointment scheduling with automatic confirmation.
 
+
+
 TECHNOLOGIES USED
 
 Frontend: React.js, HTML, CSS, Bootstrap
@@ -35,6 +43,8 @@ Backend: Node.js, Express.js
 Database: MongoDB, Mongoose
 
 Authentication: JWT (JSON Web Tokens)
+
+
 
 INSTALLATION
 
@@ -66,6 +76,8 @@ Start the frontend server:
       npm start
 
 6.Open http://localhost:3000 to use the application.
+
+
 
 USAGE
 
