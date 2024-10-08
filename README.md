@@ -31,6 +31,9 @@ Installation
 2.Backend Setup:
 
 Navigate to the backend directory:
+cd backend
+npm install
+
 
 
 cd backend
